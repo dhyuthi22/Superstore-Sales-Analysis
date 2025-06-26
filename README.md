@@ -76,5 +76,5 @@ Interactable dashboard showing:
 
 ## Author
 
-Dhyuthi Sri Ramya Cheruvu
+Dhyuthi Sri Ramya Cheruvu <br>
 Data Analyst Enthusiast
