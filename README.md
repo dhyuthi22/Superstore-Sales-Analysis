@@ -6,7 +6,12 @@ Start Date: 06-23-2025
 End Date: 06-26-2025
 
 ## Project Structure
-<pre> <code> ``` Superstore-Sales-Analysis/ ├── data/ # Original dataset ├── excel_analysis/ # Initial analysis using Excel ├── images/ # Charts generated from analysis ├── powerbi_dashboard/ # Power BI dashboard file ├── python_analysis/ # Jupyter Notebook with Python code ``` </code> </pre>
+Superstore-Sales-Analysis/<br>
+├── data/                        # Original dataset<br>
+├── excel_analysis/             # Initial analysis using Excel<br>
+├── images/                     # Charts generated from analysis<br>
+├── powerbi_dashboard/          # Power BI dashboard file<br>
+├── python_analysis/            # Jupyter Notebook with Python code
 
 ## Tools Used
 - Excel for basic pivot analysis
